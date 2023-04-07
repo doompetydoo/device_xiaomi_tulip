@@ -71,10 +71,6 @@ PRODUCT_PACKAGES += \
     libcamera_sdm660_shim \
     libmiwatermark_shim
 
-# USB
-PRODUCT_PACKAGES += \
-    android.hardware.usb@1.0-service.basic
-
 # Wifi
 PRODUCT_PACKAGES += \
     TulipWifiOverlay
