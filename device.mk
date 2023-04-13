@@ -66,11 +66,6 @@ PRODUCT_PACKAGES += \
     fstab.qcom \
     init.device.rc
 
-# Shims
-PRODUCT_PACKAGES += \
-    libcamera_sdm660_shim \
-    libmiwatermark_shim
-
 # Wifi
 PRODUCT_PACKAGES += \
     TulipWifiOverlay
